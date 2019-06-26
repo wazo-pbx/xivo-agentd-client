@@ -1,5 +1,9 @@
 # xivo-agentd-client
 
+## Deprecated
+
+The xivo-agentd-client is now deprecated in favor of the [wazo-agentd-client](https://github.com/wazo-pbx/wazo-agentd-client/)
+
 [![Build Status](https://jenkins.wazo.community/buildStatus/icon?job=xivo-agentd-client)](https://jenkins.wazo.community/job/xivo-agentd-client)
 
 A python library to access the REST API of xivo-agentd.
